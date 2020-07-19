@@ -1,0 +1,4 @@
+run this code in cmd but change the "laugh2.jpg" to the required file name
+
+python detect_faces.py --image laugh2.jpg --prototxt deploy.prototxt.txt \
+--model res10_300x300_ssd_iter_140000.caffemodel
